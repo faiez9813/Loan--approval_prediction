@@ -63,11 +63,11 @@ ROC-AUC Score: 0.960
 
 ## Files
 
-- 04_loan_approval_prediction.ipynb: full analysis and modeling notebook
+Loan_approval_prediction.ipynb: full analysis and modeling notebook
 
 ## How to Run
 
 1. Clone this repository
-2. Open 04_loan_approval_prediction.ipynb in Jupyter Notebook or Google Colab
+2. Open Loan_approval_prediction.ipynb in Jupyter Notebook or Google Colab
 3. Download the dataset from Kaggle and place the CSV file in the same directory
 4. Run all cells
